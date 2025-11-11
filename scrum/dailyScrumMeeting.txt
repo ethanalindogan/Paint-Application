@@ -1,0 +1,109 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 16, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 17, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 18, 2024
+	Yesterday :
+	Today     : Cloned repo_a3_alindoga into my local repo. Read through all the
+	            instructions and made goals for this assignment.
+	Obstacles : Understanding thoroughly the assignment.
+
+Nov 19, 2024
+	Yesterday : Reviewed assignment goals and began setting up the development environment.
+	Today     : Encountered an error with loading IntelliJ, which prevented progress for a few hours.
+	            Began preliminary research on the main topics of the assignment to solidify understanding
+	            and find potential solutions.
+	Obstacles : Technical issues with development tools.
+
+Nov 20, 2024
+	Yesterday : Resolved the IntelliJ issue and completed background research on the assignment topics.
+	Today     : Set up the project structure and outlined the necessary components and functions as per the assignment requirements.
+	Obstacles : None.
+
+Nov 21, 2024
+	Yesterday : Planned project implementation strategy.
+	Today     : Focused on refining the project plan and aligning it with the assignment’s objectives.
+	Obstacles : Clarifying some ambiguous requirements in the assignment.
+
+Nov 22, 2024
+	Yesterday : Detailed planning and requirement clarification.
+	Today     : Reviewed all research notes and refined the overall strategy for beginning the coding phase.
+	Obstacles : Prioritizing which features to implement first.
+	
+Nov 23, 2024
+	Yesterday : Completed theoretical groundwork and strategy refinement.
+	Today     : Rest day, no progress made on the assignment. Prepared mentally for starting practical work.
+	Obstacles : None.
+
+Nov 24, 2024
+	Yesterday : Rested and prepared for implementation phase.
+	Today     : No progress; planning to start coding soon. Reviewed assignment goals once more.
+	Obstacles : Procrastination and time management.
+
+Nov 25, 2024
+	Yesterday : Reviewed goals.
+	Today     : No practical work done yet; focused on organizing resources and ensuring all necessary tools are ready for coding.
+	Obstacles : Managing time effectively.
+
+Nov 26, 2024
+	Yesterday : Preparations for coding.
+	Today     : Still in the planning phase, ensuring a thorough understanding of all aspects of the project before beginning to code.
+	Obstacles : Overcoming procrastination and starting the actual coding.
+	
+Nov 27, 2024
+	Yesterday : Continued with preparation and planning, ensuring a thorough understanding of the project requirements.
+	Today     : Beginning the coding phase. The aim is to set up the initial project framework and implement the basic
+	            functionalities outlined in the project plan.
+	Obstacles : Transitioning from planning to coding, ensuring the initial setup is correctly configured for the
+	            development tasks ahead.
+	
+Nov 28, 2024
+	Yesterday : Finished User Stories 3.1 and 3.2.
+	Today     : Aiming to complete User Story 3.3 and finish more than half of Part 2.
+	Obstacles : Encountered some unexpected complexity with User Story 3.3 implementation.
+	
+Nov 29, 2024
+	Yesterday : Continued working on User Story 3.3, focusing on parsing complexities.
+	Today     : Keep working on User Story 3.3 and refine the FSM logic.
+	Obstacles : Still adjusting the FSM to handle edge cases properly in User Story 3.3.
+
+Nov 30, 2024
+	Yesterday : Worked on refining the FSM for User Story 3.3 and fixed several parsing errors.
+	Today     : Plan to complete User Story 3.3 and start testing.
+	Obstacles : Testing has revealed some unexpected issues with whitespace handling.
+
+Dec 1, 2024
+	Yesterday : Fixed whitespace handling issues in User Story 3.3.
+	Today     : Begin testing User Story 3.3 for consistency and accuracy.
+	Obstacles : Encountered discrepancies between the save and load functionalities.
+	
+Dec 2, 2024
+	Yesterday : Addressed discrepancies between save and load functionality for User Story 3.3, started retesting.
+	Today     : Finalize testing for User Story 3.3.
+	Obstacles : Final adjustments are taking longer than expected due to edge case inconsistencies.
+
+
+Dec 3, 2024
+	Yesterday : Finalized testing for User Story 3.3.
+	Today     : Completed Assignment 3 in its entirety.
+	Obstacles : Time Management.
+
+Dec 4, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+

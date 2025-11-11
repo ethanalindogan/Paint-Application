@@ -1,0 +1,14 @@
+A Numbered Document consists of a sequence
+of lines, each starts with a consecutive integer N followed by a :
+and then has the lines content.
+
+EXAMPLE BEGIN
+1: This is the first line
+2: This is the second line
+3: some more content
+4: Fire engines are red
+EXAMPLE END
+
+The content of line 1 is "This is the first line".
+The content of line 2 is "This is the second line".
+The content of line 4 is "Fire engines are red".
